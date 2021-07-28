@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JuanchoVzla
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on web based project
